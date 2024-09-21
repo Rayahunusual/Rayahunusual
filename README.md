@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rayahunusual
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on web building projects 
+- 👀 I’m a web developer
+- 🌱 blockchain development transitioning
+- 💞️ I’m looking to collaborate on blockchain and web building projects 
 - 📫 How to reach me : you can reach me through my email soonenterwase@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
